@@ -27,3 +27,7 @@ hs_err_pid*
 lib
 out
 *.xml
+*.jpg
+*.txt
+demo
+sample
